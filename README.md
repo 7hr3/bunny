@@ -1,3 +1,3 @@
 # bunny
 
-This script is for ho'oponopono to help heal and encourage unity.
+This script is for ho'oponopono practice, to help heal and encourage unity.
